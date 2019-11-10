@@ -28,6 +28,7 @@ class LoginForm extends React.Component {
 
   render() {
     return (
+      // ! How is this working
       <form onSubmit={this.handleSubmit}>
         <div>
           <label>
